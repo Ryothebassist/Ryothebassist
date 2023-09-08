@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/1130560930971914382/1149504217598402621/20230906_21560063.png.jpg)](https://shuchan.w3spaces.com/)
+[![MasterHead](https://cdn.discordapp.com/attachments/1130560930971914382/1149505335523024956/1500x500_1.png)](https://shuchan.w3spaces.com/)
 <h1 align="center">Hi 👋, I'm Shu</h1>
 <h3 align="center">A passionate fullstack developer from Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1130560930971914382/1149504217304793279/20230906_21551451.png.jpg">
